@@ -1,10 +1,10 @@
 <template>
-  <TeacherForm />
+  <PostLits />
 </template>
 
 <script lang="ts" setup>
   
-  import TeacherForm from './components/TeacherForm.vue';
+  import PostLits from './components/PostLits.vue';
 
 </script>
   
